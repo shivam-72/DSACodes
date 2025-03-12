@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/shivam-72/DSACodes/tree/master/0138-copy-list-with-random-pointer) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivam-72/DSACodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivam-72/DSACodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shivam-72/DSACodes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -63,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/shivam-72/DSACodes/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/shivam-72/DSACodes/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
