@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shivam-72/DSACodes/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/shivam-72/DSACodes/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivam-72/DSACodes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/shivam-72/DSACodes/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
