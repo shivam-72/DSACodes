@@ -65,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/shivam-72/DSACodes/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivam-72/DSACodes/tree/master/0138-copy-list-with-random-pointer) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivam-72/DSACodes/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivam-72/DSACodes/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivam-72/DSACodes/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivam-72/DSACodes/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
