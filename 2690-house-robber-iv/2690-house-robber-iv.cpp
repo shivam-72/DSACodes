@@ -27,18 +27,20 @@ public:
     
     int minCapability(vector<int>& nums, int k) {
         int st=0;
-        int ed=1000000000;
-        while(st+1<ed){
+        int ed=1e9;
+        int ans=0;
+        while(st<=ed){
             int m=st+(ed-st)/2;
             if(chk(nums,m,k)){
-                ed=m;
+                ans=m;
+                ed=m-1;
             }
             else{
-                st=m;
+                st=m+1;
             }
             
         }
         
-        return ed;
+        return ans;
     }
 };
