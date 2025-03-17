@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/shivam-72/DSACodes/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/shivam-72/DSACodes/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/shivam-72/DSACodes/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shivam-72/DSACodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivam-72/DSACodes/tree/master/0229-majority-element-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shivam-72/DSACodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivam-72/DSACodes/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/shivam-72/DSACodes/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
