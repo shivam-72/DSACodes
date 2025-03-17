@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/shivam-72/DSACodes/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/shivam-72/DSACodes/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/shivam-72/DSACodes/tree/master/0229-majority-element-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shivam-72/DSACodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivam-72/DSACodes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shivam-72/DSACodes/tree/master/2665-minimum-time-to-repair-cars) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/shivam-72/DSACodes/tree/master/0138-copy-list-with-random-pointer) |
+| [0229-majority-element-ii](https://github.com/shivam-72/DSACodes/tree/master/0229-majority-element-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivam-72/DSACodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivam-72/DSACodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shivam-72/DSACodes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivam-72/DSACodes/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/shivam-72/DSACodes/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shivam-72/DSACodes/tree/master/0229-majority-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivam-72/DSACodes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
