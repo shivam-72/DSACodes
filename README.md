@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivam-72/DSACodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivam-72/DSACodes/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/shivam-72/DSACodes/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/shivam-72/DSACodes/tree/master/0735-asteroid-collision) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shivam-72/DSACodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shivam-72/DSACodes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivam-72/DSACodes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-72/DSACodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shivam-72/DSACodes/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/shivam-72/DSACodes/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/shivam-72/DSACodes/tree/master/2308-divide-array-into-equal-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/shivam-72/DSACodes/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
