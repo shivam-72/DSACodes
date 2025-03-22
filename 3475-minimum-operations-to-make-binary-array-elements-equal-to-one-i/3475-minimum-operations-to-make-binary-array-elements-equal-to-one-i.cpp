@@ -2,7 +2,7 @@ class Solution {
 public:
     int minOperations(vector<int>& nums) {
         int i=0,s=nums.size(),res=0;
-        for(;i+2<s;i++)
+        for(;i<s-2;i++)
         {
             if(nums[i]==1)
             continue;
