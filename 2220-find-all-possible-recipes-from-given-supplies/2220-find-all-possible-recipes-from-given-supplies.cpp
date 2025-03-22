@@ -1,36 +1,40 @@
 class Solution {
 public:
-    vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>&ing, vector<string>& supplies)     {
-        queue<string>q;
-        for(auto s:supplies)
-            q.push(s);
-        unordered_map<string,int>deg;
-        unordered_map<string,vector<string>>adj;
-        int n=recipes.size();
-        unordered_map<string,bool>inRecipes;
-        for(int i=0;i<n;i++)
-        {
-            inRecipes[recipes[i]]=true;
-            deg[recipes[i]]=ing[i].size();
-            for(auto &in:ing[i])
-            {
-                adj[in].push_back(recipes[i]);
+    vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ingredients, vector<string>& supplies) {
+        unordered_set<string>u;
+        unordered_map<string,vector<string>>graph;
+        unordered_map<string,int>indegree;
+        int n=supplies.size();
+        for(int i=0;i<n;i++){
+            u.insert(supplies[i]);
+        }  
+        for(auto x : recipes)indegree[x] = 0; 
+
+        for(int i=0;i<recipes.size();i++){
+            for(int j=0;j<ingredients[i].size();j++){
+              if(u.count(ingredients[i][j])==0){
+                graph[ingredients[i][j]].push_back(recipes[i]);
+                indegree[recipes[i]]++;
+              }
             }
         }
-        vector<string>res;
-        while(!q.empty())
-        {
-            string s=q.front();
+       queue<string> q;
+        for(auto x : indegree){
+            if(x.second == 0){
+                q.push(x.first);
+            }
+        }
+       vector<string> ans;
+        while(!q.empty()){
+            string tmp = q.front();
             q.pop();
-            if(inRecipes[s])
-                res.push_back(s);
-            for(auto &t:adj[s])
-            {
-                deg[t]--;
-                if(deg[t]==0)
-                    q.push(t);
+            ans.push_back(tmp);
+            for(auto x: graph[tmp]){
+                indegree[x]--;
+                if(indegree[x] == 0)
+                    q.push(x);
             }
         }
-        return res;
+        return ans;
     }
 };
