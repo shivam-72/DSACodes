@@ -8,7 +8,7 @@ public:
         }
         priority_queue<pair<long long, long long>, vector<pair<long long, long long>>, greater<pair<long long, long long>>> pq;
         pq.push({0, 0});
-        vector<long long>dist(n,LONG_MAX);
+        vector<long long>dist(n,LLONG_MAX);
         int mod=1e9+7;
         vector<long long>ans(n,0);
         dist[0]=0;
