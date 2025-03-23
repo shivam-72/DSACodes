@@ -146,11 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shivam-72/DSACodes/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shivam-72/DSACodes/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shivam-72/DSACodes/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/shivam-72/DSACodes/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-72/DSACodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shivam-72/DSACodes/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/shivam-72/DSACodes/tree/master/0937-online-stock-span) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,4 +181,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shivam-72/DSACodes/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/shivam-72/DSACodes/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/shivam-72/DSACodes/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
