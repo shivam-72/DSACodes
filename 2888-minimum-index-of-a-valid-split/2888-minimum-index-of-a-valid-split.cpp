@@ -25,7 +25,7 @@ public:
            if(nums[i]==res){
             c++;
            }
-           if(c*2>(i+1)&&(count-c)*2>(nums.size()-i-1)){
+           if(c*2>(i+1)&&(count-c)*2>(nums.size()-(i+1))){
             return i;
            }
         }
