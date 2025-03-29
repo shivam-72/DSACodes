@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-72/DSACodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shivam-72/DSACodes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shivam-72/DSACodes/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shivam-72/DSACodes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivam-72/DSACodes/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/shivam-72/DSACodes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/shivam-72/DSACodes/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shivam-72/DSACodes/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shivam-72/DSACodes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivam-72/DSACodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shivam-72/DSACodes/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/shivam-72/DSACodes/tree/master/3430-count-days-without-meetings) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/shivam-72/DSACodes/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shivam-72/DSACodes/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-72/DSACodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shivam-72/DSACodes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shivam-72/DSACodes/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shivam-72/DSACodes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/shivam-72/DSACodes/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shivam-72/DSACodes/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
@@ -163,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shivam-72/DSACodes/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shivam-72/DSACodes/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/shivam-72/DSACodes/tree/master/0937-online-stock-span) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shivam-72/DSACodes/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-72/DSACodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shivam-72/DSACodes/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/shivam-72/DSACodes/tree/master/0937-online-stock-span) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shivam-72/DSACodes/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shivam-72/DSACodes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Greedy
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/shivam-72/DSACodes/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
