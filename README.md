@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivam-72/DSACodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivam-72/DSACodes/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/shivam-72/DSACodes/tree/master/0496-next-greater-element-i) |
+| [0768-partition-labels](https://github.com/shivam-72/DSACodes/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivam-72/DSACodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivam-72/DSACodes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shivam-72/DSACodes/tree/master/2308-divide-array-into-equal-pairs) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/shivam-72/DSACodes/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivam-72/DSACodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivam-72/DSACodes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shivam-72/DSACodes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shivam-72/DSACodes/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/shivam-72/DSACodes/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/shivam-72/DSACodes/tree/master/0088-merge-sorted-array) |
+| [0768-partition-labels](https://github.com/shivam-72/DSACodes/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shivam-72/DSACodes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Sorting
 |  |
@@ -216,5 +219,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/shivam-72/DSACodes/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shivam-72/DSACodes/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
