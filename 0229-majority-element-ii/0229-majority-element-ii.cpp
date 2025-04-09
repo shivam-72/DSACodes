@@ -20,7 +20,6 @@ public:
             j=nums[i];
             count2=1;
           }
-        
           else{
             count1--;
             count2--;
