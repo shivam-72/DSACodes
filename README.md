@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/shivam-72/DSACodes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/shivam-72/DSACodes/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/shivam-72/DSACodes/tree/master/0040-combination-sum-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivam-72/DSACodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-72/DSACodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivam-72/DSACodes/tree/master/0088-merge-sorted-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/shivam-72/DSACodes/tree/master/0040-combination-sum-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivam-72/DSACodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
