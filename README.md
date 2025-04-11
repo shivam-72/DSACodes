@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shivam-72/DSACodes/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/shivam-72/DSACodes/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shivam-72/DSACodes/tree/master/0735-asteroid-collision) |
+| [1036-rotting-oranges](https://github.com/shivam-72/DSACodes/tree/master/1036-rotting-oranges) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shivam-72/DSACodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shivam-72/DSACodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-72/DSACodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/shivam-72/DSACodes/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-72/DSACodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shivam-72/DSACodes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivam-72/DSACodes/tree/master/3227-find-missing-and-repeated-values) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivam-72/DSACodes/tree/master/0207-course-schedule) |
+| [1036-rotting-oranges](https://github.com/shivam-72/DSACodes/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivam-72/DSACodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shivam-72/DSACodes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/shivam-72/DSACodes/tree/master/2793-count-the-number-of-complete-components) |
