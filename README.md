@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivam-72/DSACodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/shivam-72/DSACodes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/shivam-72/DSACodes/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/shivam-72/DSACodes/tree/master/0040-combination-sum-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivam-72/DSACodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivam-72/DSACodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivam-72/DSACodes/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shivam-72/DSACodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivam-72/DSACodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/shivam-72/DSACodes/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
