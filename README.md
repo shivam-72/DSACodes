@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/shivam-72/DSACodes/tree/master/0072-edit-distance) |
 | [0768-partition-labels](https://github.com/shivam-72/DSACodes/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shivam-72/DSACodes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivam-72/DSACodes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/shivam-72/DSACodes/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/shivam-72/DSACodes/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/shivam-72/DSACodes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-72/DSACodes/tree/master/0416-partition-equal-subset-sum) |
