@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-72/DSACodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shivam-72/DSACodes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/shivam-72/DSACodes/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/shivam-72/DSACodes/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shivam-72/DSACodes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/shivam-72/DSACodes/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shivam-72/DSACodes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivam-72/DSACodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivam-72/DSACodes/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shivam-72/DSACodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2280-count-good-triplets-in-an-array](https://github.com/shivam-72/DSACodes/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivam-72/DSACodes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shivam-72/DSACodes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/shivam-72/DSACodes/tree/master/2690-house-robber-iv) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-72/DSACodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/shivam-72/DSACodes/tree/master/0169-majority-element) |
+| [2280-count-good-triplets-in-an-array](https://github.com/shivam-72/DSACodes/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -296,4 +299,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/shivam-72/DSACodes/tree/master/0025-reverse-nodes-in-k-group) |
 | [2050-count-good-numbers](https://github.com/shivam-72/DSACodes/tree/master/2050-count-good-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/shivam-72/DSACodes/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/shivam-72/DSACodes/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/shivam-72/DSACodes/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/shivam-72/DSACodes/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
