@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/shivam-72/DSACodes/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/shivam-72/DSACodes/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shivam-72/DSACodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivam-72/DSACodes/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/shivam-72/DSACodes/tree/master/0496-next-greater-element-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/shivam-72/DSACodes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/shivam-72/DSACodes/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivam-72/DSACodes/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/shivam-72/DSACodes/tree/master/0146-lru-cache) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivam-72/DSACodes/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivam-72/DSACodes/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/shivam-72/DSACodes/tree/master/0937-online-stock-span) |
 ## Data Stream
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/shivam-72/DSACodes/tree/master/2280-count-good-triplets-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivam-72/DSACodes/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
