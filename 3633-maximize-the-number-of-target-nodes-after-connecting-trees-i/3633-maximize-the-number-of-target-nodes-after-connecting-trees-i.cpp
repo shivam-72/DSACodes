@@ -1,57 +1,53 @@
 class Solution {
 public:
-int bfs(int i,map<int,vector<int>>&adj,int k,int N){
-    queue<pair<int,int>>q;
-    vector<bool>visited(N,false);
-    q.push({i,k});
-    visited[i]=true;
-    int count=0;
-    while(!q.empty()){
-        int u=q.front().first;
-        int dist=q.front().second;
-        q.pop();
-        if(dist<0){
-            continue;
+    
+    unordered_map<int,vector<int>> bulidTree(vector<vector<int>>& edges){
+
+        unordered_map<int,vector<int>> tree;
+
+        for(auto& edge : edges){
+            int u = edge[0];
+            int v = edge[1];
+            tree[u].push_back(v);
+            tree[v].push_back(u);
         }
-        count++;
-        for(auto &ngbr:adj[u]){
-            if(!visited[ngbr]){
-                visited[ngbr]=true;
-                q.push({ngbr,dist-1});
+        return tree;
+    }
+
+    int  dfs(unordered_map<int,vector<int>>& tree, int u, int k, int parent) {
+
+        if(k < 0){
+            return 0;
+        }
+        int count = 1;
+
+        for(int& v : tree[u]){
+            if(v != parent){
+                count += dfs(tree,v,k-1,u);
             }
         }
-
+        return count;
     }
-    return count;
-
-}
-vector<int> countFound(vector<vector<int>>& edges1,int k){
-    int N=edges1.size()+1;
-    map<int,vector<int>>adj;
-    for(int i=0;i<edges1.size();i++){
-        int u=edges1[i][0];
-        int v=edges1[i][1];
-        adj[u].push_back(v);
-        adj[v].push_back(u);
-    }
-    vector<int>result(N);
-    for(int i=0;i<N;i++){
-        result[i]=bfs(i,adj,k,N);
-    }
-return result;
-}
     vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2, int k) {
-       vector<int>result1=countFound(edges1,k);
-       vector<int>result2=countFound(edges2,k-1);
-
-       int maxCount=*max_element(begin(result2),end(result2));
-       for(int i=0;i<result1.size();i++){
-        result1[i]+=maxCount;
-       }
-
-return result1;
-
         
-    
-}
+        unordered_map<int,vector<int>> tree1 = bulidTree(edges1);
+        unordered_map<int,vector<int>> tree2 = bulidTree(edges2);
+        int n = edges1.size() + 1;
+        int m = edges2.size() + 1;
+        int maxi = 0;
+        vector<int> ans1(n,0);
+        vector<int> ans2(m,0);
+        
+        for(int i=0; i<n; i++){
+            ans1[i] = dfs(tree1,i,k, -1);
+        }
+        for(int i=0; i<m; i++){
+            ans2[i] = dfs(tree2,i,k-1,-1);
+            maxi = max(maxi,ans2[i]);
+        }
+        for(int i=0; i<n; i++){
+            ans1[i] = ans1[i] + maxi;
+        }
+        return ans1;
+    }
 };
