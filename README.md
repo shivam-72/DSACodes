@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shivam-72/DSACodes/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shivam-72/DSACodes/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/shivam-72/DSACodes/tree/master/0797-rabbits-in-forest) |
+| [0945-snakes-and-ladders](https://github.com/shivam-72/DSACodes/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/shivam-72/DSACodes/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shivam-72/DSACodes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shivam-72/DSACodes/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shivam-72/DSACodes/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/shivam-72/DSACodes/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/shivam-72/DSACodes/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-72/DSACodes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shivam-72/DSACodes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivam-72/DSACodes/tree/master/0207-course-schedule) |
+| [0945-snakes-and-ladders](https://github.com/shivam-72/DSACodes/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/shivam-72/DSACodes/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shivam-72/DSACodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shivam-72/DSACodes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
