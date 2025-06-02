@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-72/DSACodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivam-72/DSACodes/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam-72/DSACodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0135-candy](https://github.com/shivam-72/DSACodes/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/shivam-72/DSACodes/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shivam-72/DSACodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivam-72/DSACodes/tree/master/0229-majority-element-ii) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/shivam-72/DSACodes/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/shivam-72/DSACodes/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shivam-72/DSACodes/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shivam-72/DSACodes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
